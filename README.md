@@ -39,4 +39,4 @@ Contributions are always welcome! If you would like to contribute to this projec
 
 ## Visit
 
-To view the live version of this project, [please visit](https://sachin12031999.github.io/Modi-Marijuain-CORE-UI-Project/).
+To view the live version of this project, [ visit](https://sachin12031999.github.io/Modi-Marijuain-CORE-UI-Project/).
