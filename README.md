@@ -31,7 +31,7 @@ To get started with this project, you can simply clone this repository to your l
 
 ## Credits
 
-This project was created by [Your Name Here]. The HTML, CSS, and JavaScript code were adapted from an existing website template, with modifications made to suit the needs of the project. The images, icons, and other assets were sourced from various online repositories, with appropriate attribution provided where necessary.
+This project was created by [Sachin Pandey](https://github.com/sachin12031999/). The HTML, CSS, and JavaScript code were adapted from an existing website template, with modifications made to suit the needs of the project. The images, icons, and other assets were sourced from various online repositories, with appropriate attribution provided where necessary.
 
 ## Contributions
 
